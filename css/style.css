@@ -1,10 +1,11 @@
 a {
     display:inline;
-    color: black
-    margin-right: 50px;
-    margin-left: 50px;
+    color: black;
+    margin-right: 60px;
+    margin-left: 60px;
     margin-bottom: 100px;
     font-family: 'IBM Plex Sans', sans-serif;
+    text-decoration-line: none;
 }
 
 h1 {
@@ -18,7 +19,10 @@ h1 {
 div {
     border-bottom-style: solid;
     border-bottom-width: 5px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
     
